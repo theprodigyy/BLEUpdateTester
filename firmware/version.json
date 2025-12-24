@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "bin": "https://github.com/theprodigyy/BLEUpdateTester/raw/refs/heads/main/firmware/v2/firmware.bin"
+  "bin": "https://raw.githubusercontent.com/theprodigyy/BLEUpdateTester/main/firmware/v2/firmware.bin"
 }
